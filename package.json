@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "bin": {
-    "your-command-here": "./index.js"
+    "show-anniecourney-resume": "./index.js"
   }
   
 }
